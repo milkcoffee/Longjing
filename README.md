@@ -1,2 +1,3 @@
 # Longjing
-My first tea on GitHub.
+My first cup of tea on GitHub.
+not bad~
